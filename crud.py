@@ -21,3 +21,6 @@ def function_1():
 
 def function_2():
     pass
+
+def function_3():
+    pass
