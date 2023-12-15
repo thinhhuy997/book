@@ -15,3 +15,6 @@ def get_books(db: Session, skip: int = 0, limit: int = 10):
 
 def get_book(db: Session, book_id: int):
     return db.query(model.Book).filter(model.Book.id == book_id).first()
+
+def function_1():
+    pass
