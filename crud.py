@@ -18,3 +18,6 @@ def get_book(db: Session, book_id: int):
 
 def function_1():
     pass
+
+def function_2():
+    pass
